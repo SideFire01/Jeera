@@ -2,6 +2,8 @@
 
 Jeera Offline is a simple and lightweight, responsive task management board built to your personal tasks in check.
 
+Live Demo: [Jeera Offline](https://jeera-hazel.vercel.app/)
+
 This version was designed as a prototype before development of the online version so some features are missing.
 
 ## Features
