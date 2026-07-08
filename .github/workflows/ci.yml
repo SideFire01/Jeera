@@ -2,9 +2,9 @@ name: CI Pipeline
 
 on:
   push:
-    branches: ["Deployed"]
+    branches: ["Deployed", "Offline", "Online"]
   pull_request:
-    branches: ["Deployed"]
+    branches: ["Deployed", "Offline", "Online"]
 
 permissions:
   contents: read
